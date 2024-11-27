@@ -1,0 +1,16 @@
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjksInVzZXJuYW1lIjoiYWRtaW5Vc2VyIiwicm9sZSI6InJlZ3VsYXIiLCJpYXQiOjE3Mjg2MDIwMzQsImV4cCI6MTcyODYwNTYzNH0.l8foYzyGvxYkT4of6CFF7m84DDUdgdAnBUncsyistcA",
+    "username": "adminUser",
+    "role": "regular"
+}
+
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEwLCJ1c2VybmFtZSI6Im9yZ2FuaXplclVzZXIiLCJyb2xlIjoicmVndWxhciIsImlhdCI6MTcyODYwMjE4MywiZXhwIjoxNzI4NjA1NzgzfQ.SUgNZvZTu3UzBMCXbzoUjzjISumUYEF7ZjW345lA0Cs",
+    "username": "organizerUser",
+    "role": "regular"
+}
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjExLCJ1c2VybmFtZSI6InZpZXdlclVzZXIiLCJyb2xlIjoicmVndWxhciIsImlhdCI6MTcyODYwMjIxOCwiZXhwIjoxNzI4NjA1ODE4fQ.6RAg39jqTu9RugQ9HR3NkXUefz95eumT4cgPZxal-38",
+    "username": "viewerUser",
+    "role": "regular"
+}
